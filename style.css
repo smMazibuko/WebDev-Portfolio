@@ -1,0 +1,18 @@
+
+body {
+    background-image: url("images/DarkBackground.png");
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.portrait {
+    float: right;
+}
+
+.main{
+    color: white;
+    text-align: center;
+}
